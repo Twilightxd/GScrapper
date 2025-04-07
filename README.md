@@ -1,0 +1,2 @@
+# GScrapper
+*** Minor Project ***
